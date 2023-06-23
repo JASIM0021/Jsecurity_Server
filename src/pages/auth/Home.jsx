@@ -44,10 +44,10 @@ const Home = () => {
         Control your Android from anywhere in the world. Get location and much
         more.
         <Link
-          to="/register"
+          to="/login"
           className="ml-2 text-blue-500 hover:text-blue-600 transition-colors duration-300"
         >
-          Click here to register
+          Click here to Login
         </Link>
       </p>
     </div>
